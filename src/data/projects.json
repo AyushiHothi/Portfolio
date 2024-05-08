@@ -1,8 +1,20 @@
 [
     {
+        "title": "Portfolio",
+        "imageSrc": "projects/Portfolio.png",
+        "description": "This is make for increase my Knowledge. ",
+        "skills": [
+            "React",
+            "Figma",
+            "Vite"
+        ],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com/AyushiHothi/Portfolio"
+    },
+    {
         "title": "Online Musical Ware House",
         "imageSrc": "projects/Home.png",
-        "description": "This is make ",
+        "description": "This is make for my Bachelor Final Examination. ",
         "skills": [
             "React",
             "Express",
