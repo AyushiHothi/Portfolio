@@ -8,7 +8,7 @@
             "Figma",
             "Vite"
         ],
-        "demo": "https://www.example.com",
+        "demo": "https://ayushihothiportfolio.netlify.app/",
         "source": "https://www.github.com/AyushiHothi/Portfolio"
     },
     {
@@ -21,7 +21,7 @@
             "Node",
             "MongoDB"
         ],
-        "demo": "https://www.example.com",
+        "demo": "https://onlinemusicalwarehouse.netlify.app",
         "source": "https://www.github.com/AyushiHothi/OnlineMusicalWareHouse"
     }
 ]
