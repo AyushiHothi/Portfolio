@@ -8,6 +8,14 @@
         "imageSrc": "skills/css.png"
     },
     {
+        "title": "JavaScript",
+        "imageSrc": "skills/JavaScript.png"
+    },
+    {
+        "title": "TypeScript",
+        "imageSrc": "skills/TypeScript.png"
+    },
+    {
         "title": "React",
         "imageSrc": "skills/react.png"
     },
@@ -16,12 +24,12 @@
         "imageSrc": "skills/node.png"
     },
     {
-        "title": "MySQL",
-        "imageSrc": "skills/mysql.png"
-    },
-    {
         "title": "MongoDB",
         "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "MySQL",
+        "imageSrc": "skills/mysql.png"
     },
     {
         "title": "Figma",

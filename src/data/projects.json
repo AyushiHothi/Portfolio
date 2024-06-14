@@ -1,20 +1,8 @@
 [
     {
-        "title": "Portfolio",
-        "imageSrc": "projects/Portfolio.png",
-        "description": "This is make for increase my Knowledge. ",
-        "skills": [
-            "React",
-            "Figma",
-            "Vite"
-        ],
-        "demo": "https://ayushihothiportfolio.netlify.app/",
-        "source": "https://www.github.com/AyushiHothi/Portfolio"
-    },
-    {
         "title": "Online Musical Ware House",
         "imageSrc": "projects/Home.png",
-        "description": "This is make for my Bachelor Final Examination. ",
+        "description": "The Online Musical Warehouse is a fully dynamic eCommerce platform designed for users to purchase a variety of musical instruments such as electric guitars, drums, flutes, and more. ",
         "skills": [
             "React",
             "Express",
@@ -23,5 +11,17 @@
         ],
         "demo": "https://onlinemusicalwarehouse.onrender.com",
         "source": "https://www.github.com/AyushiHothi/OnlineMusicalWareHouse"
+    },
+    {
+        "title": "Portfolio",
+        "imageSrc": "projects/Portfolio.png",
+        "description": "The Personal Portfolio project is a basic static website designed to showcase my professional profile, including my work, GitHub repositories, LinkedIn profile, and projects completed so far. ",
+        "skills": [
+            "React",
+            "Figma",
+            "Vite"
+        ],
+        "demo": "https://ayushihothiportfolio.netlify.app/",
+        "source": "https://www.github.com/AyushiHothi/Portfolio"
     }
 ]
